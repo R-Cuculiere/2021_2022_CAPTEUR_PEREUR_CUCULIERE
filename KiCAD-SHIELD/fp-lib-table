@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Socket_Arduino_Uno")(type "KiCad")(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name "2022-SHIELD-Arduino-FlexSensor-backups")(type "KiCad")(uri "${KIPRJMOD}/2022-SHIELD-Arduino-FlexSensor-backups.pretty")(options "")(descr ""))
+  (lib (name "2022-SHIELD-Arduino-FlexSensor")(type "KiCad")(uri "C:/Users/Rémi/OneDrive/4_GP/TP KICAD/2022-SHIELD-Arduino-FlexSensor.pretty")(options "")(descr ""))
+  (lib (name "SHIELD_print_Library")(type "KiCad")(uri "${KIPRJMOD}/SHIELD_print_Library.pretty")(options "")(descr ""))
+)
